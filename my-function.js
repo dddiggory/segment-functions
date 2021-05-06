@@ -1,6 +1,6 @@
 [
 	{
-		destinations: ['blockEvent'],
+		destinations: ['blockEvent2'],
 		eventType: ['communication'],
 		instructions: [
 			{
