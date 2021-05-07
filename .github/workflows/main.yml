@@ -24,10 +24,10 @@ jobs:
         with:
           token: 'Axd9Z_j9qdMusXwZjfACzy3P4f2x9G3E5-cFbnrfllA.XHHJMY9_LdMkyURDk2KsYR4F6C4W5Uk3q1hoBW78IE0'
           function-code: ${{ steps.checkout.outputs.function_code }} # don't update this
-          function-name: 'GH Function v7'
+          function-name: 'GH Function Minified'
           function-type: Destination
           workspaceID: eVgZgEcWSF
-          function-id: dfn_609491c728983f25f9ab83e0 # Set this value after the function is created.
+#           function-id: dfn_609491c728983f25f9ab83e0 # Set this value after the function is created.
 
 # Uncomment job_2 below if you want to manage another function
 
