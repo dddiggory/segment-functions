@@ -2,6 +2,7 @@
 	{
 		destinations: ['blockEvent'],
 		eventType: ['communication'],
+		testVar: ['success'],
 		instructions: [
 			{
 				valueB: 'userIdError',
