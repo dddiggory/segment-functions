@@ -11,7 +11,7 @@ jobs:
         # In the bash script below replace lib/function.js with the path to your function code.
         run: |
           echo "Function Code Is"
-          cp my-function.js my-function.js
+          cp my-function.js my-function.txt
           value="$(< my-function.js)"
           value="${value//'%'/'%25'}"
           value="${value//$'\n'/'%0A'}"
