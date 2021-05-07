@@ -27,7 +27,7 @@ jobs:
           function-name: 'Github Actions Function v2'
           function-type: Destination
           workspaceID: eVgZgEcWSF
-          # function-id: <function id> # Set this value after the function is created.
+          function-id: dfn_60948b1cad234059eed1b931 # Set this value after the function is created.
 
 # Uncomment job_2 below if you want to manage another function
 
