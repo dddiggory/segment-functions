@@ -24,10 +24,10 @@ jobs:
         with:
           token: '7I3tFKVhe91gjZSe9fB4JmwWbtdl5wpMK-iAnC486d8.B89p_KvuWi7hWG5kED2VqHofsNW1uOPZuaLuhlC-AIo'
           function-code: ${{ steps.checkout.outputs.function_code }} # don't update this
-          function-name: 'Github Actions Function v2'
+          function-name: 'Github Actions Function v3'
           function-type: Destination
           workspaceID: eVgZgEcWSF
-          function-id: dfn_60948b1cad234059eed1b931 # Set this value after the function is created.
+#           function-id: dfn_60948b1cad234059eed1b931 # Set this value after the function is created.
 
 # Uncomment job_2 below if you want to manage another function
 
